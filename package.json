@@ -1,0 +1,16 @@
+{
+  "name": "localfire",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "event-emitter": "^0.3.1",
+    "dotty": "0.0.2",
+    "clone": "^0.1.18"
+  }
+}
